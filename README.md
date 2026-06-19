@@ -1,8 +1,10 @@
+Live Demo:
+https://predictive-maintenance-mlops-akmzvpb7bgmju6zn9bbfqu.streamlit.app/
+
+
 #  Real-Time Industrial Predictive Maintenance Platform
 
 An end-to-end MLOps predictive maintenance architecture designed to ingest real-time factory machinery sensor streams, dynamically fuse asset metadata profiles, and evaluate instant breakdown risks using machine learning models.
-
----
 
 ##  Key Engineering Pillars
 
